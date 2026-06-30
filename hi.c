@@ -1,15 +1,12 @@
 #include <stdio.h>
 int main()
 {
-    printf("hi");
-    printf("dongin");
-    printf("somi");
+    //------print hi-------
 
-    printf("hihi");
-    printf("hihi");
+    //------print hi-------
+    //------print dongin ----
 
-    printf("zzzz");
-    printf("blahblah");
+    //-----print dongin------
 
     return 0;
 }
