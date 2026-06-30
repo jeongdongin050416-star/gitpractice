@@ -5,5 +5,6 @@ int main()
     printf("dongin");
     printf("somi");
     printf("hihi");
+    printf("hihi");
     return 0;
 }
